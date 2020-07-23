@@ -11,3 +11,4 @@ topic-A
 topic-B
 
 topic-C
+ssh-keygen -t rsa -C "oh.my.rocknroll@gmail.com"
